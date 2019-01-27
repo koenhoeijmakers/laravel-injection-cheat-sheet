@@ -37,3 +37,18 @@ A cheat-sheet for those who want to disband the practice of using facades and gl
 |`URL`   |`\Illuminate\Contracts\Routing\UrlGenerator`   |
 |`Validator`   |`\Illuminate\Contracts\Validation\Factory`   |
 |`View`   |`\Illuminate\Contracts\View\Factory`   |
+
+## Helpers
+Some of these call a specific method on a specific contract, those will have a `@method()` syntax added behind the class.
+
+|Helper   |Actual   |
+|---|---|
+|`action()`   |`\Illuminate\Contracts\Routing\UrlGenerator@action()`   |
+|`app()`   |`\Illuminate\Contracts\Foundation\Application`   |
+|`asset()`   |`\Illuminate\Contracts\Routing\UrlGenerator@asset()`   |
+|``   |``   |
+|``   |``   |
+|``   |``   |
+|``   |``   |
+|``   |``   |
+|``   |``   |
