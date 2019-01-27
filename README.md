@@ -6,7 +6,7 @@ A cheat-sheet for those who want to disband the practice of using facades and gl
 |---|---|
 |`App`   |`\Illuminate\Contracts\Foundation\Application`   |
 |`Artisan`   |`\Illuminate\Contracts\Console\Kernel`   |
-|`Auth`   |`\Illuminate\Contracts\Auth\Factory` \ `\Illuminate\Contracts\Auth\Guard` \ `\Illuminate\Contracts\Auth\StatefulGuard`   |
+|`Auth`   |`\Illuminate\Contracts\Auth\Factory` \ `\Illuminate\Contracts\Auth\Guard`   |
 |`Blade`   |`\Illuminate\View\Compilers\BladeCompiler`   |
 |`Broadcast`   |`\Illuminate\Contracts\Broadcasting\Factory`   |
 |`Bus`   |`\Illuminate\Contracts\Bus\Dispatcher`   |
