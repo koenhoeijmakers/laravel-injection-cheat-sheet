@@ -1,6 +1,9 @@
 # Laravel Injection Cheat Sheet
 A cheat-sheet for those who want to disband the practice of using facades and global helpers.
 
+- [Facades](#facades)
+- [Helpers](#helpers)
+
 ## Facades
 |Facade   |Actual   |
 |---|---|
