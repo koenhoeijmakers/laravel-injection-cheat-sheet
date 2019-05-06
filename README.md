@@ -60,7 +60,7 @@ Helpers may call specific methods depending on the parameters, if that is the ca
 |`decrypt()`   |`\Illuminate\Contracts\Encryption\Encrypter@decrypt()`   |
 |`dispatch()`   |`\Illuminate\Contracts\Bus\Dispatcher@dispatch()`   |
 |`dispatch_now()`   |`\Illuminate\Contracts\Bus\Dispatcher@dispatchNow()`   |
-|`decrypt()`   |`\Illuminate\Contracts\Encryption\Encrypter@encrypt()`   |
+|`encrypt()`   |`\Illuminate\Contracts\Encryption\Encrypter@encrypt()`   |
 |`event()`   |`\Illuminate\Contracts\Events\Dispatcher@dispatch()`   |
 |`factory()`   |`\Illuminate\Database\Eloquent\FactoryBuilder`   |
 |`info()`   |`\Psr\Log\LoggerInterface@info()`   |
