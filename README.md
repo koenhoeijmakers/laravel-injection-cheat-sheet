@@ -24,7 +24,7 @@ A cheat-sheet for those who want to disband the practice of using facades and gl
 |`Hash`   |`\Illuminate\Contracts\Hashing\Hasher`   |
 |`Input`   |`\Illuminate\Http\Request`   |
 |`Lang`   |`\Illuminate\Contracts\Translation\Translator`   |
-|`Log`   |`\Psr\Log\LoggerInterface`   |
+|`Log`   |`\Psr\Log\LoggerInterface` \ `Illuminate\Log\LogManager`   |
 |`Mail`   |`\Illuminate\Contracts\Mail\Mailer`   |
 |`Notification`   |`\Illuminate\Contracts\Notifications\Dispatcher`   |
 |`Password`   |`\Illuminate\Contracts\Auth\PasswordBroker`   |
